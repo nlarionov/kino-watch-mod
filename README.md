@@ -83,7 +83,7 @@ KinoWatch - клиент видеосервиса kino.pub для телевиз
 Полный список изменений раскрывается по разделам.
 
 Изменения последней сборки описаны в релизе
-[v2.9.1](https://github.com/nlarionov/kino-watch-mod/releases/tag/v2.9.1).
+[v2.10.0](https://github.com/nlarionov/kino-watch-mod/releases/tag/v2.10.0).
 
 <details>
 <summary><b>Интерфейс</b>: стеклянное оформление, шапка и закреплённые вкладки, постеры с рейтингами, страница фильма, боковое меню, тест скорости</summary>
@@ -381,7 +381,7 @@ KinoWatch - клиент видеосервиса kino.pub для телевиз
 
 ## Установка
 
-Последняя сборка: **v2.9.1** (2.07.24-Mod), 8 октября 2026.
+Последняя сборка: **v2.10.0** (2.07.24-Mod), 8 октября 2026.
 
 - Файл: https://github.com/nlarionov/kino-watch-mod/releases/latest/download/kino-watch-mod.apk
 - На телевизоре: откройте Downloader и введите код **4159634**. Код всегда ведёт на самую свежую
